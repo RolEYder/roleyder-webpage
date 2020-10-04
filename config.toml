@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
-theme = "hugo-theme-stack"
+theme = "stack"
 paginate = 5
 title = "Rogger G. Diaz"
 disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
