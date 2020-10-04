@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/page/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/cpu/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/harvard-architecture/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/john-von-neumann/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/p/notes-the-processor/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/transistors/</loc>
+    <lastmod>2020-06-16T11:27:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/algorithms/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/algorithms/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/p/cars-line-up-at-a-car-wash-queue-data-structure/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/data-structure/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/python/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/python/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/papers/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
