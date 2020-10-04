@@ -61,12 +61,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             src = ""
 
 [menu]
-    [[menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
-        weight = -100
-        pre = "home"
+    
     [[menu.main]]
         identifier = "about-cn"
         name = "About"
