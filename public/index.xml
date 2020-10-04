@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rogger G. Diaz</title>
-    <link>https://example.com/</link>
+    <link>roleyder.netlify.app/</link>
     <description>Recent content on Rogger G. Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="roleyder.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>roleyder.netlify.app/about/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>roleyder.netlify.app/about/</guid>
       <description>About me. I&amp;rsquo;m an Computer Science Research and Puzzles Lover. My childhood was very normal. On thing that remembers is when I had my Nintendo64 but, it became unhelpful. So that I tried to fix but just found the problem when I was 12 years.
 Exist a book that change my world perspective called Calculos Superiores en Quimica Fisica by Avery Saw, and I said I do not die without knowing something about this book.</description>
     </item>
     
     <item>
       <title>Notes: The Processor</title>
-      <link>https://example.com/p/notes-the-processor/</link>
+      <link>roleyder.netlify.app/p/notes-the-processor/</link>
       <pubDate>Tue, 16 Jun 2020 11:27:25 -0400</pubDate>
       
-      <guid>https://example.com/p/notes-the-processor/</guid>
+      <guid>roleyder.netlify.app/p/notes-the-processor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cars line-up at a car wash | Queue Data Structure</title>
-      <link>https://example.com/p/cars-line-up-at-a-car-wash-queue-data-structure/</link>
+      <link>roleyder.netlify.app/p/cars-line-up-at-a-car-wash-queue-data-structure/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/cars-line-up-at-a-car-wash-queue-data-structure/</guid>
+      <guid>roleyder.netlify.app/p/cars-line-up-at-a-car-wash-queue-data-structure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archives</title>
-      <link>https://example.com/archives/</link>
+      <link>roleyder.netlify.app/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>roleyder.netlify.app/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papers</title>
-      <link>https://example.com/papers/</link>
+      <link>roleyder.netlify.app/papers/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/papers/</guid>
+      <guid>roleyder.netlify.app/papers/</guid>
       <description></description>
     </item>
     

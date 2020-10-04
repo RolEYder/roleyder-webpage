@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "roleyder.netlify.app"
 languageCode = "en-us"
 theme = "stack"
 paginate = 5

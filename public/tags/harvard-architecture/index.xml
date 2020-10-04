@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harvard-architecture on Rogger G. Diaz</title>
-    <link>https://example.com/tags/harvard-architecture/</link>
+    <link>roleyder.netlify.app/tags/harvard-architecture/</link>
     <description>Recent content in Harvard-architecture on Rogger G. Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jun 2020 11:27:25 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/harvard-architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="roleyder.netlify.app/tags/harvard-architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notes: The Processor</title>
-      <link>https://example.com/p/notes-the-processor/</link>
+      <link>roleyder.netlify.app/p/notes-the-processor/</link>
       <pubDate>Tue, 16 Jun 2020 11:27:25 -0400</pubDate>
       
-      <guid>https://example.com/p/notes-the-processor/</guid>
+      <guid>roleyder.netlify.app/p/notes-the-processor/</guid>
       <description></description>
     </item>
     
